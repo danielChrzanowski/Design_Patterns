@@ -1,5 +1,5 @@
 # Design_Patterns
-Every pattern is located on new branch.
+Every pattern is located on another branch.
 
 1. Composite
 2. Decorator
